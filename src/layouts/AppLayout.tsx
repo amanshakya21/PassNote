@@ -6,7 +6,7 @@ export function AppLayout() {
   return (
     <div className="grid min-h-screen grid-cols-1 md:grid-cols-[240px_1fr]">
       <aside className="border-r border-white/10 bg-slate-950/70 p-4">
-        <h1 className="mb-4 text-xl font-bold">PaasNote</h1>
+        <h1 className="mb-4 text-xl font-bold">PassNote</h1>
         <nav className="space-y-2 text-sm">
           <NavLink className="block rounded-lg px-3 py-2 hover:bg-white/10" to="/dashboard">All Items</NavLink>
           <NavLink className="block rounded-lg px-3 py-2 hover:bg-white/10" to="/dashboard/favorites">Favorites</NavLink>

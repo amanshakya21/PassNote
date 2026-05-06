@@ -1,6 +1,6 @@
-# PaasNote
+# PassNote
 
-PaasNote is an offline-first, security-focused password manager web app built with React, TypeScript, Vite, TailwindCSS, Zustand, and Web Crypto API.
+PassNote is an offline-first, security-focused password manager web app built with React, TypeScript, Vite, TailwindCSS, Zustand, and Web Crypto API.
 
 It stores encrypted vault data locally in IndexedDB and never sends secrets to a backend.
 
